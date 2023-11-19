@@ -1,4 +1,24 @@
-### Hi there 👋
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,py,react,redux,html,css,aws,postgres,sqlite,express,sequelize,nodejs,flask,docker,github&perline=5" />
+  </a>
+</p>
+<h3 align="center">
+	What brings me joy:
+</h3>
+<p align="center">
+	🗜️ Simple elegant, solutions to complex problems 🗜️
+</p>
+<p align="center">
+	🤗 Building up my team members as we work towards a common goal 🤗
+</p>
+<p align="center">
+	Learning a new tool to help me...
+</p>
+
+
+
 
 <!--
 **jgoldenberg29/jgoldenberg29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
