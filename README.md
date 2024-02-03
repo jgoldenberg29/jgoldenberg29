@@ -14,7 +14,7 @@
 	🤗 Building up my team members as we work towards a common goal 🤗
 </p>
 <p align="center">
-	🧩 Gaining new knowledge and tools to help me solve problems 🧩
+	🧩 Gaining new knowledge and tools to help me solve real world issues 🧩
 </p>
 
 
